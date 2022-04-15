@@ -4,7 +4,7 @@ Product of exponentials python example
 
 FK can be calculated with known w and v (angular and linear velocity) terms for each joint screw axis.
 
-Both examples show body and spacial frame examples.
+Both examples show body and spacial frame calculations.
 
 The RRRP SCARA robot
 ![image](https://user-images.githubusercontent.com/25193070/163533552-a20bce02-9396-4f5b-8db5-0faf19585909.png)
